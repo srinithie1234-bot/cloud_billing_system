@@ -1,0 +1,8 @@
+# Python Flask backend dependencies (reference for the original spec)
+# This project ships as a Vite client-side app, but the equivalent Flask
+# backend would use the following packages:
+
+Flask==3.0.3
+Flask-Session==0.8.0
+pandas==2.2.2
+sqlite3-stdlib==0.0.1

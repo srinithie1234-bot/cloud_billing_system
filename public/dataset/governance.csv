@@ -1,0 +1,4 @@
+id,policy_name,threshold,current_usage
+1,Maximum VM Limit,20,22
+2,Maximum Storage Limit (TB),5,5.8
+3,Maximum Database Budget,120000,135000

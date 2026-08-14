@@ -1,0 +1,3 @@
+id,name,email,password,role
+1,Admin User,admin@cloudops.io,admin123,admin
+2,FinOps Analyst,finops@cloudops.io,finops123,analyst
